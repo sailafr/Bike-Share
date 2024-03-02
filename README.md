@@ -20,10 +20,9 @@ This repository was created to complete the final project of Learning Data Analy
 
 ## 2. notebook.ipynb
 1. Download all material or data which will be used.
-2. Open Google Collaboratory.
-3. Create a New Notebook.
-4. Create a script or code and the explanation.
-5. Run code cells.
+2. Open file notebook.ipynb.
+3. Upload data day.csv on files upload
+4. Run every code cells.
 	
 ## 3. dashboard
 1. Setup Environment
